@@ -1,0 +1,18 @@
+header{
+    width: 200px;
+    background-color: rgb(159, 214, 223);
+    padding: 40px;
+    padding-right: 100%;
+    margin: -1%;
+    margin-bottom: 40px;
+}
+.trwhite{
+    color: white;
+}
+footer{
+    background-color: rgb(39, 29, 61);
+    color: white;
+    padding: 5px;
+    text-align: center;
+    margin: 30px -10px -10px;
+}
